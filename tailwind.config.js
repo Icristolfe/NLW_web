@@ -64,8 +64,7 @@ module.exports = {
       backgroundSize: {
         stripes: '100% 8px',
       },
-
     },
   },
-  plugins: [],
+  plugins: [require('@tailwindcss/forms')],
 }
