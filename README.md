@@ -5,7 +5,7 @@
 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
-<p>Projeto feito em nextjs 13 e tailwind, sobre uma timeline onde é possivel o usuario logar com sua conta do github e então criar lembranças adicionando imagem e texto, o usuário  e lembrança são salvos no banco de dados prisma.
+<p>Projeto feito em nextjs 13 e tailwind, sobre uma timeline onde é possivel o usuario logar com sua conta do github e então criar lembranças adicionando imagem e texto, o usuário  e lembrança são salvos no banco de dados prisma
 </p>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/196553482@N03/52941875818/in/dateposted-public/" title="nlwweb"><img src="https://live.staticflickr.com/65535/52941875818_f7afb05114_o.jpg" width="1600" height="900" alt="nlwweb"/></a>
