@@ -41,7 +41,7 @@ export function NewMemoryForm() {
         },
       }
     )
-
+    router.refresh()
     router.push('/')
   }
   return (
